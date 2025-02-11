@@ -1,0 +1,9 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  background: aliceblue;
+  /* background: #121026; */
+  /* background: white; */
+  overflow: hidden;
+  display: flex;
+}
